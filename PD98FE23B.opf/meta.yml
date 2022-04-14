@@ -1,0 +1,114 @@
+id: PD98FE23B
+initial_creation_type: input
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1PD105899
+  instance_id: http://purl.bdrc.io/resource/IE1PD105899
+  collection_id: http://purl.bdrc.io/resource/PR0ET005
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - ཞི་བྱེད་དང་ཤངས་པའི་ཆོས་སྐོར།
+  alt_title:
+    zh-hans:
+    - 希杰派和香巴噶举派的教义
+  author: http://purl.bdrc.io/resource/P39
+  publisher: KarmaDelek
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    ff01cb168f504e22b8971f0290f3389c:
+      title: དཔེ་སྐྲུན་གསལ་བཤད།རང་རེའི་མེས་པོ་མཁས་དབང་དམ་པ་རིམ་བྱོན་གྱི་རྣམ་དཔྱོད་ལྟོ་བ་ཡངས་པའི་རྩལ་ལས་རབ་ཏུ་འཁྲུངས་པའི་གཙུག་ལག་ནི་ནམ་མཁའི་མཐ
+      volume_number: 8
+      base_file: UT1PD105899_008_0000.txt
+      reference: http://purl.bdrc.io/resource/VLAC756D362ECAFFB6
+      image_group: null
+      quality: null
+    d0ec809ba21449c09772baca463da90d:
+      title: མཁྱེན་བརྩེའི་འོད་སྣང་གི་དཔེ་ཚོགས་བསྡུ་སྒྲིག་ལས་མིའི་མཚན་ཐོ།
+      volume_number: 10
+      base_file: UT1PD105899_010_0000.txt
+      reference: http://purl.bdrc.io/resource/VL5F12CD3C1A39A080
+      image_group: null
+      quality: null
+    fc23441188e64d3db34113992f97ff45:
+      title: སྔོན་འགྲོའི་ཞུ་ཚིགདེ་ཡང་འགྲོ་བ་ལྷ་དང་བཅས་པའི་མ་འདྲིས་པའི་མཛའ་བཤེས།ཕན་བདེའི་རྩ་ལག་ཏུ་གྱུར་པ།བདག་ཅག་གི་སྟོན་པ་མཉམ་མེད་ཐུབ་པའི་དབང་
+      volume_number: 9
+      base_file: UT1PD105899_009_0000.txt
+      reference: http://purl.bdrc.io/resource/VLD645387D7E603668
+      image_group: null
+      quality: null
+    91f5ef10756f425fb212a1917d0163d4:
+      title: ༄༅།་།ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག་ཡང་ཚོམ་ཞུས་ལན་མ་བཞུགས་སོ།་།
+      volume_number: 4
+      base_file: UT1PD105899_004_0000.txt
+      reference: http://purl.bdrc.io/resource/VL6DF1F763D3929819
+      image_group: null
+      quality: null
+    7aa557d179914f4fb2f0a16dad6c5e2d:
+      title: ཞི་བྱེད་དང་ཤངས་པའི་ཆོས་སྐོར་བཞུགས་སོ།་།
+      volume_number: 13
+      base_file: UT1PD105899_013_0000.txt
+      reference: http://purl.bdrc.io/resource/VLF76A7F06C72A47FA
+      image_group: null
+      quality: null
+    950b15795f55410f83eaff4ce3ad2067:
+      title: བསྡུ་སྒྲིག་གསལ་བཤད།
+      volume_number: 12
+      base_file: UT1PD105899_012_0000.txt
+      reference: http://purl.bdrc.io/resource/VL9D6D67AE0872A3CD
+      image_group: null
+      quality: null
+    36ef03c752e24b2c908af53fcd5e281d:
+      title: རྩོམ་པ་པོའི་རྣམ་ཐར་མདོར་བསྡུས།
+      volume_number: 7
+      base_file: UT1PD105899_007_0000.txt
+      reference: http://purl.bdrc.io/resource/VL6A59584971E744D2
+      image_group: null
+      quality: null
+    84f27f4ea405498e99061c0e087dcc60:
+      title: ༄༅།་།ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག་གཅོད་ཀྱི་གཞུང་འགྲེལ་ཟག་མེད་སྦྲང་རྩི་ཞེས་བྱ་བ་བཞུགས་སོ།་།
+      volume_number: 5
+      base_file: UT1PD105899_005_0000.txt
+      reference: http://purl.bdrc.io/resource/VL009CC23BA80371F1
+      image_group: null
+      quality: null
+    cb94003a8e7d4ca2840a52b957bf1530:
+      title: ༄༅།་།ཞི་བྱེད་དང་ཤངས་པའི་ཆོས་སྐོར་བཞུགས་སོ།་།མཁས་གྲུབ་ཁྱུང་པོ་རྣལ་འབྱོར་སོགས་ཀྱིས་བརྩམས།དཔལ་བརྩེགས་བོད་ཡིག་དཔེ་རྙིང་ཞིབ་འཇུག་ཁང
+      volume_number: 1
+      base_file: UT1PD105899_001_0000.txt
+      reference: http://purl.bdrc.io/resource/VLA5C2B49262E7BB9D
+      image_group: null
+      quality: null
+    2d69686185894b57aa26693bdf040ea4:
+      title: ༄༅།་།ལམ་དྲི་མ་མེད་པ་དངུལ་སྒོང་དག་པའི་སྐོར་བཞུགས་སོ།་།བླ་མ་དམ་པ་རྣམས་ལ་ཕྱག་འཚལ་ལོ།་།འགྲོ་བའི་མགོན་པོ་མི་ཡི་སྐྱེས་མཆོག་མཐོང་ལམ་
+      volume_number: 2
+      base_file: UT1PD105899_002_0000.txt
+      reference: http://purl.bdrc.io/resource/VL7FBC4625140AE8E6
+      image_group: null
+      quality: null
+    2e3c9d5f71574dbc88cbfd25b043183f:
+      title: ༄༅།་།ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག་གཅོད་ཀྱི་གཞུང་ཤེས་རབ་སྐྲ་རྩེའི་ས་གཞུང་སྤེལ་བ་རིན་པོ་ཆེའི་གཏེར་མཛོད་ཅེས་བྱ་བ་བཞུགས་སོ།
+      volume_number: 3
+      base_file: UT1PD105899_003_0000.txt
+      reference: http://purl.bdrc.io/resource/VL082E8FADA121FD4C
+      image_group: null
+      quality: null
+    1b54c342f98c4c3a8ecf1bfd4b722fa0:
+      title: ༄༅།་།དཔལ་ལྡན་ཤངས་པ་བཀའ་བརྒྱུད་ཀྱི་དོ་ཧ་རྡོ་རྗེའི་ཚིག་རྐང་དང་མགུར་དབྱངས་ཕྱོགས་གཅིག་ཏུ་བསྒྲིགས་པ་ཐོས་པ་དོན་ལྡན་བྱིན་རླབས་རྒྱ་མཚོ་
+      volume_number: 6
+      base_file: UT1PD105899_006_0000.txt
+      reference: http://purl.bdrc.io/resource/VL07C443984CB9C528
+      image_group: null
+      quality: null
+    1f25b11b97f04d538484484cce476ebf:
+      title: ལམ་དྲི་མ་མེད་པ་དངུལ་སྒོང་དག་པའི་སྐོར།ཕ་དམ་པ་སངས་རྒྱས།ལམ་དྲི་མ་མེད་པ་གསེར་སྒོང་དག་པའི་སྐོར།ཕ་དམ་པ་སངས་རྒྱས།ལམ་དྲི་མ་མེད་པ་ཤེལ་སྒོ
+      volume_number: 11
+      base_file: UT1PD105899_011_0000.txt
+      reference: http://purl.bdrc.io/resource/VL5E1518BFC847964B
+      image_group: null
+      quality: null
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W1PD105899
+  - http://purl.bdrc.io/resource/MW1PD105899
+created_at: '2021-12-27T14:32:48.387359'
+last_modified_at: '2021-12-27T14:32:48.387372'
